@@ -16,8 +16,8 @@ I am a student at Ateneo De Manila University pursuing BS Computer Science.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ### Tools & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)   
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Others
