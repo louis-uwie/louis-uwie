@@ -15,6 +15,9 @@ I am a student at Ateneo De Manila University pursuing BS Computer Science.
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+**Tools & Frameworks**
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
 <div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=louis-uwie&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-uwie&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 190px;" />
