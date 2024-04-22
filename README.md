@@ -14,7 +14,7 @@ I am a student at Ateneo De Manila University pursuing BS Computer Science.
 ### Languages 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![GDScript](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![GDScript](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white)
 
 ### Tools & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
