@@ -8,21 +8,22 @@ I am a student at Ateneo De Manila University pursuing BS Computer Science.
 ⚡ Fun fact: I like to try out machinery - whenever, wherever I can.  
 
 ### Relevant Links   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoWidth=40)](https://www.linkedin.com/in/louisuwie2003/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoWidth=40)](mailto:louis.binwagiii@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoWidth=40](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/louisuwie2003/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.binwagiii@gmail.com)
 
 ### Languages 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white)
 
 ### Tools & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Others
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+### Currently Studying
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Personal Record
 <div>
