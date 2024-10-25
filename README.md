@@ -8,13 +8,13 @@ I am a student at Ateneo De Manila University pursuing BS Computer Science.
 ⚡ Fun fact: I like to try out machinery - whenever, wherever I can.  
 
 ### Relevant Links   
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoWidth=40](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/louisuwie2003/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisuwie2003/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.binwagiii@gmail.com)
 
 ### Languages 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![GDScript](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white)
+![GDScript](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
 ### Tools & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
