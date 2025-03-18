@@ -1,4 +1,4 @@
-# Hello there! I'm Louis!
+# Hello there, I'm Louis!
 I am a BS Computer Science student at Ateneo de Manila University, currently honing my front-end development skills. I am eager to explore Full-Stack Internship opportunities starting June 2025!  
 
 ## Relevant Links   
