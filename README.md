@@ -25,14 +25,14 @@ I am a student at Ateneo De Manila University pursuing BS Computer Science.
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Thesis-Related**
+**Thesis-Related**   
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Google Cloud Skill Boost**
+**Google Cloud Skill Boost**  
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Personal Record
+### Personal Record  
 <div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=louis-uwie&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-uwie&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 190px;" />
