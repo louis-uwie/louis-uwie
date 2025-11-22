@@ -1,5 +1,5 @@
 # **Hello there, I'm Louis**!
-I am a BS Computer Science student at Ateneo de Manila University, currently honing my front-end development skills. I am eager to explore Full-Stack Internship opportunities starting June 2025!  
+A Computer Science student trying to understand various frameworks, languages, and generally honing my skills on the field. Currently taking thesis, let's see where this goes!
 
 ## Relevant Links   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisuwie2003/)
@@ -24,7 +24,7 @@ I am a BS Computer Science student at Ateneo de Manila University, currently hon
 
 ## Currently Studying
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)]
 
 **Thesis-Related**   
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
