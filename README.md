@@ -1,8 +1,10 @@
 # **Hello there, I'm Louis**!
 A Computer Science student trying to understand various frameworks, languages, and generally honing my skills on the field. Currently taking thesis, let's see where this goes!
 
-**[Visit my Website!](https://louis-uwie-portfolio.vercel.app/)** \\
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisuwie2003/) \\
+**[Visit my Website!](https://louis-uwie-portfolio.vercel.app/)**
+
+**Relevant Links**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisuwie2003/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisbinwagiii@gmail.com)
 
 ## Languages 
