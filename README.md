@@ -3,11 +3,11 @@ A Computer Science student trying to understand various frameworks, languages, a
 
 **[Visit my Website!](https://louis-uwie-portfolio.vercel.app/)**
 
-**Relevant Links**
+## **Relevant Links**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisuwie2003/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisbinwagiii@gmail.com)
 
-## Languages 
+## **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@ A Computer Science student trying to understand various frameworks, languages, a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-## Tools & Frameworks
+## **Tools & Frameworks**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
@@ -29,10 +29,10 @@ A Computer Science student trying to understand various frameworks, languages, a
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Currently Studying
+## **Currently Studying**
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 
-## Personal Record  
+## **Personal Record**  
 <div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=louis-uwie&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-uwie&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 190px;" />
