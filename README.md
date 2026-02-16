@@ -29,10 +29,10 @@ A Computer Science student trying to understand various frameworks, languages, a
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!--
 ## **Currently Studying**
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
+<!--
 ## **Personal Record**  
 <div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=louis-uwie&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />
