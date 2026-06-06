@@ -1,7 +1,12 @@
-# **Hello there, I'm Louis**!
-A Computer Science student trying to understand various frameworks, languages, and generally honing my skills on the field. Currently taking thesis, let's see where this goes!
+# Hello there, I'm Louis! 👋
 
-**[Visit my Website!](https://louis-uwie-portfolio.vercel.app/)**
+Doing my best to learn various frameworks, languages, and technologies while continuously honing my skills as a developer.
+
+I'm a Computer Science graduate currently looking for opportunities to grow, contribute, and gain experience in the industry.
+
+My tech stack, projects, and other work can be found below. For more personal details, including my resume, project portfolio, and contact information:
+
+🌐 **[Visit my Website!](https://louis-uwie-portfolio.vercel.app/)**
 
 ## **Relevant Links**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisuwie2003/)
@@ -42,4 +47,4 @@ A Computer Science student trying to understand various frameworks, languages, a
 
 <br>
 
-_updated as of March 2025_
+_updated as of June 2026_
