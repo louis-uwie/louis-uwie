@@ -6,7 +6,7 @@ I'm a Computer Science graduate currently looking for opportunities to grow, con
 
 My tech stack, projects, and other work can be found below. For more personal details, including my resume, project portfolio, and contact information:
 
-🌐 **[Visit my Website!](https://louis-uwie-portfolio.vercel.app/)**
+🌐 **[Visit my Website!](https://louis-uwie-porfolio.vercel.app/)**
 
 ## **Relevant Links**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisuwie2003/)
@@ -36,7 +36,9 @@ My tech stack, projects, and other work can be found below. For more personal de
 
 ## **Currently Studying**
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
 <!--
 ## **Personal Record**  
 <div>
